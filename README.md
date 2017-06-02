@@ -1,4 +1,6 @@
 # helloworld_go
+[![Build Status](https://codeship.com/projects/986fc1e0-29da-0135-defa-7a0797081780/status?branch=master)](https://app.codeship.com/projects/223792)
+
 
 ## Building
 In any case:
